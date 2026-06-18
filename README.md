@@ -6,7 +6,7 @@
 
 ---
 
-## 已安装（8 个）
+## 已安装（10 个）
 
 | Skill | 来源 | 用途摘要 |
 |-------|------|----------|
@@ -18,6 +18,8 @@
 | [report-curation](./report-curation/) | Class14 智能体Stock | 汇总 a_share_out / market_analysis 为交付报告 |
 | [project-cleanup-stock-agent](./project-cleanup-stock-agent/) | Class14 智能体Stock | 清理 Stock 项目、规范目录、准备交付 |
 | [web-access](./web-access/) | Class14 智能体Stock | 联网搜索、网页抓取、浏览器自动化（含 scripts） |
+| [stop-slop-main](./stop-slop-main/) | 第三方 | 去除 AI 写作痕迹，润色与审校 prose |
+| [java-log-ai-report](./java-log-ai-report/) | 项目/1ai-log-analysis | Java 日志 AI 报告 §6 模板与 prompt 规范 |
 
 ---
 
